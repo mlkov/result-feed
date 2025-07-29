@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2025-06-01 15:53">
+<shop>
+<name>BRAXTON</name>
+<company>BRAXTON</company>
+<url>https://braxton.ua</url>
+<categories>
+<category id="86">Зимние головные уборы</category>
+<category id="87" parentId="86">Женские береты</category>
+<category id="88" parentId="86">Женские шапки</category>
+<category id="89" parentId="86">Мужские шапки</category>
+<category id="90" parentId="86">Зимние комплекты</category>
+<category id="91" parentId="86">Снуды, бафы</category>
+<category id="289" parentId="86">Теплые бейсболки</category>
+<category id="290" parentId="86">Зимние женские кепки</category>
+<category id="92">Летние головные уборы</category>
+<category id="94" parentId="92">Женские шляпы</category>
+<category id="95" parentId="92">Женские панамы</category>
+<category id="96" parentId="92">Женские бейсболки</category>
+<category id="117" parentId="92">Мужские бейсболки</category>
+<category id="99" parentId="92">Мужские панамы</category>
+<category id="100" parentId="92">Детские шляпы</category>
+<category id="235">Палантины</category>
+<category id="253">Пляжные туники</category>
+</categories>
+<offers>
+<offer id="33572" available="false" group_id="32792" selling_type="w">
+<url>https://braxton.ua/catalog/zhenskie-shapki/shapka-rodeya-4372.html?pid=33572</url>
+<vendor>Braxton</vendor>
+<price>136</price>
+<oldprice>170</oldprice>
+<currencyId>UAH</currencyId>
+<categoryId>88</categoryId>
+<picture>https://braxton.ua/upload/iblock/850/mwkuz1w1z1q2khvda9mxpabnrg9njt0p.jpg</picture>
+<quantity_in_stock>0</quantity_in_stock>
+<vendorCode>4372-25097002</vendorCode>
+<name>Шапка «Родея» (4372) Braxton белый 56-59</name>
+<description>
+	 Теплая зимняя шапка «Родея» с помпоном (бубоном) из искусственного меха надежно сохранит Ваше тепло этой холодной и морозной зимой. Полотно изделие выполнено из двухцветной пряжи средней вязки с узорным плетением в виде кос. Пышный помпон (бубон) внесет в Ваш образ шалости. А мягкая подкладка из флиса обеспечивает комфортную посадку на голове. Качественный брендовый логотип из кожи с теснением расположился на небольшом отвороте головного убора шириной в 7 см. В составе шапки присутствует шерсть, и благодаря своим уникальным теплозащитным свойствам Вы никогда не замерзнете.
+</description>
+<param name="Цвет">белый</param>
+<param name="Размер">56-59</param>
+<param name="Материал">30% шерсть альпака, 30% полиэстер, 25% акрил, 10% полиамид, 5% эластан</param>
+<param name="Категория">Для женщин</param>
+<param name="Тип">Шапка</param>
+<param name="Сезон">Зима</param>
+<param name="Фасон">шапка-колпак с бубоном</param>
+<param name="Состав">шерсть</param>
+<param name="Подкладка">полностью из микрофлиса &quot;Polar&quot;</param>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
