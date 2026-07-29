@@ -1,0 +1,7 @@
+2026-07-25 06:05:18 - Обробка файлу: https://sib.in.ua/price_merge/0_merged_file.xml
+2026-07-25 06:05:20 - Обробка файлу: https://sib.in.ua/category_id_mapper/10-sevte_updated.xml
+2026-07-25 06:05:22 - Обробка файлу: https://sib.in.ua/price_update3/17-babyav_filtered.xml
+2026-07-25 06:05:24 - Обробка файлу: https://sib.in.ua/category_id_mapper/19-grtr2_updated.xml
+2026-07-25 06:05:25 - Обробка файлу: https://sib.in.ua/price_update/price_vil_prom.xml
+2026-07-25 06:05:27 - Обробка файлу: https://sib.in.ua/price_update/price_lio_prom.xml
+2026-07-25 06:05:28 - Файл успішно злитий! Кількість товарів: 0
